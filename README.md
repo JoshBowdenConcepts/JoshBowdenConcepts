@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoshBowdenConcepts
-- 👀 I’m interested in learning and developing full stack enterprise applications
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in developing design systems and web applications
+- 🌱 I’m currently working on developing my own design system and component library
 - 💞️ I’m looking to collaborate on anything that sounds like fun!
 
 <!---
