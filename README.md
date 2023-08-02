@@ -13,3 +13,5 @@ I am a <strong>[Visual, Conceptual, and Kinethetic]</strong> learner
 👁️ Visual - You need to see something visually to process and understand.<br/>
 💡 Conceptual - You need a global understanding with all the pieces clear.<br/>
 💃🏻 Kinesthetic - Moving your body helps you focus and work best. 
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=JoshBowdenConcepts.JoshBowdenConcepts)
