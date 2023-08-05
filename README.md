@@ -18,6 +18,7 @@
 | Component         | Links | Image |
 |--------------|:-----:|-----------:|
 | CTABanner Component | [Documentation](https://primer.style/brand/components/CTABanner/react) <br/> [Source Code](https://github.com/primer/brand/tree/main/packages/react/src/CTABanner) | <img src='https://github.com/JoshBowdenConcepts/JoshBowdenConcepts/blob/main/CTABanner.PNG?raw=true' /> |
+| Image Component | [Documentation](https://primer.style/brand/components/Image) <br/> [Source Code](https://github.com/primer/brand/tree/main/packages/react/src/Image) | <img src='https://github.com/JoshBowdenConcepts/JoshBowdenConcepts/blob/main/Image%20Component.PNG?raw=true' /> |
 | Prose Component |  [Documentation](https://primer.style/brand/components/Prose) <br/> [Source Code](https://github.com/primer/brand/tree/main/packages/react/src/Prose) |        <img src="https://raw.githubusercontent.com/JoshBowdenConcepts/JoshBowdenConcepts/main/Prose%20Component.PNG" /> |
 <!--
 | UnorderedList Component      |  [Documentation](https://primer.style/brand/components/UnorderedList/react) <br/> [Source Code](https://github.com/primer/brand/tree/main/packages/react/src/list/UnorderedList) |          <img src="https://raw.githubusercontent.com/JoshBowdenConcepts/JoshBowdenConcepts/main/Unordered%20List%20Component.PNG" /> |
