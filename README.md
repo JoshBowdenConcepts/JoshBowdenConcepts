@@ -2,7 +2,7 @@
   <img src="https://github.com/JoshBowdenConcepts/JoshBowdenConcepts/blob/main/GitHub%20Banner.png" />
 </p>
 
-<h3 align='center'><strong><a href="https://www.linkedin.com/in/joshua-bowden/overlay/1635533379910/single-media-viewer/?profileId=ACoAABJRaFwB9aB7mLjrNHNCu0B3_47TEbeWjHg" target="_blank">Portfolio🌐</a></strong></h3>
+<h3 align='center'><strong><a href="https://www.linkedin.com/in/joshua-bowden/overlay/1635533379910/single-media-viewer/?profileId=ACoAABJRaFwB9aB7mLjrNHNCu0B3_47TEbeWjHg" target="_blank">Resume🌐</a></strong></h3>
 <p align='center'>Design Systems | Accessibility | UI Engineer</p>
 
 <div align="center">
