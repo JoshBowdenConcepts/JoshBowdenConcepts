@@ -49,3 +49,11 @@ I am a <strong>[Visual, Conceptual, and Kinethetic]</strong> learner
 <a href="">![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=Jest&logoColor=C21325&labelColor=ffffff)</a>
 
 </div>
+
+<br/>
+<br/>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/JoshBowdenConcepts/count.svg" />
+</p>
