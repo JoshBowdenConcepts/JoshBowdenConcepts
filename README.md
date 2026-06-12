@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/JoshBowdenConcepts/JoshBowdenConcepts/blob/main/GitHub%20Banner.png" alt="Josh Bowden — Design Systems & Accessibility" />
-</p>
-
 <h1 align="center">Hi, I'm Josh Bowden 👋</h1>
 <h3 align="center">Technical Lead & Engineering Mentor · Design Systems · Accessibility</h3>
 <p align="center">Greater Boston · He/Him</p>
