@@ -1,56 +1,98 @@
 <p align="center">
-  <img src="https://github.com/JoshBowdenConcepts/JoshBowdenConcepts/blob/main/GitHub%20Banner.png" />
+  <img src="https://github.com/JoshBowdenConcepts/JoshBowdenConcepts/blob/main/GitHub%20Banner.png" alt="Josh Bowden — Design Systems & Accessibility" />
 </p>
 
-<h3 align='center'><strong><a href="https://www.linkedin.com/in/joshua-bowden/overlay/1635533379910/single-media-viewer/?profileId=ACoAABJRaFwB9aB7mLjrNHNCu0B3_47TEbeWjHg" target="_blank">Resume🌐</a></strong></h3>
-<p align='center'>Design Systems | Accessibility | UI Engineer</p>
+<h1 align="center">Hi, I'm Josh Bowden 👋</h1>
+<h3 align="center">Technical Lead & Engineering Mentor · Design Systems · Accessibility</h3>
+<p align="center">Greater Boston · He/Him</p>
 
-<div align="center">
-  
-  <a href="">[![Linkedin](https://img.shields.io/badge/LinkedIn-Josh%20Bowden-blue?logo=Linkedin&logoColor=blue&labelColor=black)]([https://www.linkedin.com/in/joshua-bowden/](https://www.linkedin.com/in/joshua-bowden/))</a>
-  <a href="">[![Mail](https://img.shields.io/badge/Gmail-joshbowdenconcepts@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:Joshbowdenconcepts@gmail.com)</a>
-  <a href="">[![Codepen](https://img.shields.io/badge/StackOverflow-Josh%20Bowden-gray?logo=stackoverflow&logoColor=white&labelColor=black)]([https://codepen.io/AhmadSawalqeh](https://stackoverflow.com/users/8344506/josh-bowden))</a>
-
-</div>
-
-<h2 align='center'>Recent Work</h2>
-
-<!--
-| Component         | Links | Image |
-|--------------|:-----:|-----------:|
-| CTABanner Component | [Documentation](https://primer.style/brand/components/CTABanner/react) <br/> [Source Code](https://github.com/primer/brand/tree/main/packages/react/src/CTABanner) | <img src='https://github.com/JoshBowdenConcepts/JoshBowdenConcepts/blob/main/CTABanner.PNG?raw=true' /> |
-| Image Component | [Documentation](https://primer.style/brand/components/Image) <br/> [Source Code](https://github.com/primer/brand/tree/main/packages/react/src/Image) | <img src='https://github.com/JoshBowdenConcepts/JoshBowdenConcepts/blob/main/Image%20Component.PNG?raw=true' /> |
-| Prose Component |  [Documentation](https://primer.style/brand/components/Prose) <br/> [Source Code](https://github.com/primer/brand/tree/main/packages/react/src/Prose) |        <img src="https://raw.githubusercontent.com/JoshBowdenConcepts/JoshBowdenConcepts/main/Prose%20Component.PNG" /> |
-| UnorderedList Component      |  [Documentation](https://primer.style/brand/components/UnorderedList/react) <br/> [Source Code](https://github.com/primer/brand/tree/main/packages/react/src/list/UnorderedList) |          <img src="https://raw.githubusercontent.com/JoshBowdenConcepts/JoshBowdenConcepts/main/Unordered%20List%20Component.PNG" /> |
--->
-
-<p align='center'>💻 **Languages and Tools:**</p>
+<p align="center">
+  I build design systems that scale — token architecture, component libraries, CI/CD, visual regression testing, and WCAG AA accessibility — and help teams adopt them with clarity and confidence.
+</p>
 
 <div align="center">
 
-<a href="">![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)</a>
-<a href="">![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)</a>
-<a href="">![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)</a>
-<a href="">![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)</a>
-<a href="">![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) </a>
-<a href="">![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)</a>
-<a href="">![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)</a>
-<a href="">![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)</a>
-<a href="">![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=typescript)</a>
-<a href="">![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)</a>
-<a href="">![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)</a>
-<a href="">![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff)</a>
-<a href="">![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)</a>
-<a href="">![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)</a>
-<a href="">![socket.io](https://img.shields.io/badge/-Socket.Io-000000?style=flat&logo=socket.io&logoColor=000000&labelColor=ffffff)</a>
-<a href="">![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=Jest&logoColor=C21325&labelColor=ffffff)</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-joshbowdenconcepts.github.io%2Fjoshbowden-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://joshbowdenconcepts.github.io/joshbowden/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joshua--bowden-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-bowden/)
+[![Email](https://img.shields.io/badge/Email-joshbowdenconcepts@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshbowdenconcepts@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Josh%20Bowden-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/8344506/josh-bowden)
 
 </div>
 
-<br/>
+---
+
+## Currently
+
+**Senior Software Engineer II, Design Systems** @ **American Express** — Global Dining
+
+Technical lead for a net-new design system powering a large product refresh. I own token architecture across four major products, Storybook environments, CI/CD pipelines, automated icon workflows, custom visual regression testing, and the governance that helped drive **89% adoption** across engineering.
+
+Previously on the **Tock** design systems team at Amex, where I pitched and shipped a custom token system adopted org-wide in Q4 2024.
+
+---
+
+## Where I've made impact
+
+| Company | Role | Highlights |
+| :--- | :--- | :--- |
+| **American Express** | Sr. Software Engineer II, Design Systems | 89% DS adoption · unified tokens across 4 products · custom visual regression testing |
+| **ADPList** | Engineering Mentor | Top 1% mentor · coached engineers into senior roles & first jobs |
+| **GitHub** | Sr. Software Engineer, Design Systems | Primer roadmap · 12-column Grid · asset governance · WCAG AA fixes |
+| **CarGurus** | Sr. Software Engineer, Design System | MUI → custom system migration · component library · DX tooling |
+| **Cylindo** | Software Engineer | 3D config platform integrations · internal tooling · sales engineering |
+
+---
+
+## Selected writing
+
+Case studies and deep dives from the work above — token systems, theming, asset libraries, and visual testing:
+
+- [3 Themes, Dozens of Combinations, Zero Regressions](https://joshbowdenconcepts.github.io/joshbowden/work/american-express/visual-regression-custom-testing)
+- [Building a Token System: Semantic vs. Explicit Naming](https://joshbowdenconcepts.github.io/joshbowden/work/american-express/systematic-token-system)
+- [Case Study: Building an Internal Asset Library at GitHub](https://joshbowdenconcepts.github.io/joshbowden/work/github/internal-asset-library-github)
+- [Case Study: Migrating from MUI to a Custom Design System](https://joshbowdenconcepts.github.io/joshbowden/work/cargurus/mui-to-custom-design-system)
+
+---
+
+## What I care about
+
+```text
+Design systems that teams actually want to use
+Accessible UI by default, not as an afterthought
+Token architecture as a single source of truth
+Mentorship, alignment, and engineering leadership
+```
+
+> *"Don't repeat yourself" led me to reusable components — paired with a fascination for design and usability, that became design systems.*
+
+Featured on [Primer](https://primer.style/about/content/JoshBowdenConcepts/) · ADPList Top 1% Mentor
+
+---
+
+## Toolbox
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" alt="Storybook" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Accessibility-WCAG%20AA-7C3AED?style=flat-square&logo=webaim&logoColor=white" alt="Accessibility" />
+</p>
+
+---
+
+<p align="center">
+  <strong>Open to conversations about design systems, accessibility, and engineering leadership.</strong><br/>
+  <a href="https://joshbowdenconcepts.github.io/joshbowden/#contact">Say hello →</a>
+</p>
+
 <br/>
 
-<p align="center"> 
+<p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/JoshBowdenConcepts/count.svg" />
 </p>
