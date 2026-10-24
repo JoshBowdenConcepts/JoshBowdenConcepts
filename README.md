@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-joshbowdenconcepts.github.io%2Fjoshbowden-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://joshbowdenconcepts.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-joshbowdenconcepts.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://joshbowdenconcepts.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-joshua--bowden-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-bowden/)
 [![Email](https://img.shields.io/badge/Email-joshbowdenconcepts@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshbowdenconcepts@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Josh%20Bowden-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/8344506/josh-bowden)
